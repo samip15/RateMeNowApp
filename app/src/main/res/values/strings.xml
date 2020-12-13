@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RateAppDemo</string>
+    <string name="rate_dialog_title">Please Rate Our App</string>
+    <string name="rate_dialog_message">Our App Offers Many Services As Wll As The Booking Facility </string>
+    <string name="rate_dialog_ok">Rate Me now</string>
+    <string name="rate_dialog_cancel">remind later</string>
+    <string name="rate_dialog_no">Not Now</string>
+</resources>
